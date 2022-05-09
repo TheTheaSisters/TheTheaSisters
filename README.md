@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheTheaSisters
 - 👀 I’m interested in painting, drawing, dancing, coding...
-- 🌱 I’m currently learning machine learning(in coding)
-- 💞️ I’m looking to collaborate on c++
+- 🌱 I’m currently learning js(in coding)
+- 💞️ I’m looking to learn c++
 - 📫 How to reach me Riya.Kaggal@outlook.com
 
 <!---
